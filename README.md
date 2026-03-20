@@ -45,16 +45,16 @@
 ---
 
 ## 项目结构
-olist-analytics/
-├── docs/
-│   └── metric_dict.md        # 指标口径说明
-├── sql/
-│   ├── 00_setup/             # 建表与数据导入
-│   ├── 10_model/             # 数据建模（事实表/主题表）
-│   └── 20_analysis/          # 专题分析 SQL
-├── notebooks/
-│   └── data_quality_checks.ipynb  # Python 数据质量检查
-└── README.md
+
+- docs/
+  - metric_dict.md — 指标口径说明
+- sql/
+  - 00_setup/ — 建表与数据导入
+  - 10_model/ — 数据建模（事实表/主题表）
+  - 20_analysis/ — 专题分析 SQL
+- notebooks/
+  - data_quality_checks.ipynb — Python 数据质量检查
+- README.md
 
 ---
 

@@ -51,6 +51,7 @@
 
 ## 📁 项目结构
 
+```
 olist-analytics/
 ├── README.md                        # 项目说明
 │
@@ -63,11 +64,11 @@ olist-analytics/
 │   └── data_quality_checks.ipynb   # 数据质量检查报告
 │
 └── docs/                            # 文档
-└── metric_dict.md               # 指标口径说明
+    └── metric_dict.md               # 指标口径说明
+```
 
 > ⚠️ 原始数据集不含在仓库中，请从 [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 自行下载
-
----
+****
 
 ## 🛠️ 技术栈
 
